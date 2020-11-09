@@ -1,5 +1,5 @@
 # Team SQUARE!!!
-### Group member names and emails:
+### Group members names and emails:
   
   |Name           |Email           |
   |---------------|----------------|
