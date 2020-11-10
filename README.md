@@ -19,6 +19,10 @@
    
    This dataset contains the information of different facilities in Pittsburgh, and the City Facility data pulled from the Operations Management System for the Department of Public Works
    
+   [Pittsburgh Public School Locations](https://data.wprdc.org/dataset/pittsburgh-public-school-locations)
+   
+   This dataset has information about all the public schools around Pittsburgh, including name of the public school, location in Pittsburgh with latitude, longitude and zipcode and address. 
+   
 ---
 
 ### Abstract:
